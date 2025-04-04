@@ -3,8 +3,8 @@
 
 ### 1️⃣ Clonar el repositorio  
 ```bash
-git clone https:
-cd NOMBRE-DEL-REPO
+git clone https://github.com/G-Kr4V3n/Buscador-Maquinas-HTB
+cd Buscador-Maquinas-HTB
 ```
 
 ### 2️⃣ Instalar `js-beautify`  
